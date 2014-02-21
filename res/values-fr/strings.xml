@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lagazo_dynamicUI</string>
+    <string name="action_settings">設置</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="one">一</string>
+	<string name="two">二</string>
+	<string name="three">三</string>
+	<string name="four">四</string>
+	<string name="five">五</string>
+	<string name="six">六</string>
+	<string name="seven">七</string>
+	<string name="eight">八</string>
+	<string name="nine">九</string>
+	<string name="zero">零</string>
+	
+</resources>
